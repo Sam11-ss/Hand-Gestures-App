@@ -1,0 +1,63 @@
+body
+{
+  color: rgb(119, 116, 116);
+  background: #fffcd3;
+}
+span
+{
+  font-size: 30px;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size:40px;
+  border-radius:50px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-family: 'Courier Prime', monospace;
+  letter-spacing:5px;
+  border-color: #a2c4eb;
+    border-style: solid;
+    background-color: whitesmoke;
+}
+label{
+  font-size:25px;
+}
+.bttn{
+  font-size:25px;
+  border-radius:50px;
+  font-family: 'Courier Prime', monospace;
+  letter-spacing:2px;
+  padding:10px;
+  border-color: #65abfa;
+    border-style: solid;
+    background-color: whitesmoke;
+}
+.bttn:hover{
+    font-size:25px;
+  border-radius:50px;
+  font-family: 'Courier Prime', monospace;
+  letter-spacing:2px;
+  padding:10px;
+  border-color: #023875;
+    border-style: solid;
+    background-color: rgb(204, 204, 204);
+    text-shadow: 4px 3px 3px rgb(0, 0, 0);
+}
